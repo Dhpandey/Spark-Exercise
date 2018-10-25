@@ -1,0 +1,20 @@
+xdmp:document-insert("address1.json", $node1),
+xdmp:document-insert("address2.json", $node2),
+xdmp:document-insert("address3.json", $node3),
+xdmp:document-insert("address4.json", $node4),
+xdmp:document-insert("address5.json", $node5),
+xdmp:document-insert("address6.json", $node6),
+xdmp:document-insert("address7.json", $node7),
+xdmp:document-insert("address8.json", $node8),
+xdmp:document-insert("address9.json", $node9),
+xdmp:document-insert("address10.json", $node10)
+
+
+
+
+
+
+
+
+
+

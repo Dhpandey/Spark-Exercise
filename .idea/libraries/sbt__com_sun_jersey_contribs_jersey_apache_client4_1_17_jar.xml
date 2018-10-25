@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.sun.jersey.contribs:jersey-apache-client4:1.17:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.sun.jersey.contribs/jersey-apache-client4/jars/jersey-apache-client4-1.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.sun.jersey.contribs/jersey-apache-client4/srcs/jersey-apache-client4-1.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
